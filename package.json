@@ -1,0 +1,9 @@
+{
+  "name": "uk-saville-inquiry",
+  "private": true,
+  "type": "module",
+  "description": "Source archive and ingestion definition for: The Report of the Bloody Sunday Inquiry, Volume I",
+  "dependencies": {
+    "@rtm/ingest": "github:reportsthatmatter/ingest#v0.12.14"
+  }
+}

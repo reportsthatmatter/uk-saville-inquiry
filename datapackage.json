@@ -1,0 +1,13 @@
+{
+  "name": "uk-saville-inquiry",
+  "title": "The Report of the Bloody Sunday Inquiry, Volume I",
+  "resources": [
+    {
+      "title": "The Report of the Bloody Sunday Inquiry, Volume I (HC 29-I)",
+      "path": "archive/bloody-sunday-inquiry-vol1-hc29-i.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{ "web": "https://assets.publishing.service.gov.uk/media/5a7b7c8ced915d131105f8f4/0029_i.pdf" }]
+    }
+  ]
+}
