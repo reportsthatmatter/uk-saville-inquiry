@@ -1,7 +1,11 @@
 import {
   pipeline,
+  geometry,
   allCapsHeadings,
+  numberedHeadings,
   numberedParagraphs,
+  paragraphNotes,
+  chapterContents,
   quoteInset,
   runningFurniture,
 } from "@rtm/ingest";
@@ -21,17 +25,35 @@ export default pipeline({
   volumes: [
     { path: "archive/bloody-sunday-inquiry-vol1-hc29-i.pdf", sha256: "f979d05c54729499bd54577d920e84c9d848f78231dfa91bdaee32f32ea597ea" },
   ],
-  // Numbered "4.18" paragraphs, same convention as Litvinenko/Leveson/Hillsborough.
-  // Body-text continuations of a numbered paragraph sit around column 14-16
-  // (a wider hanging indent than Litvinenko's), which the default of 5 read
-  // as a quotation: every numbered paragraph's own wrapped text was being
-  // split off and requoted. 10 clears normal body continuations while still
-  // catching most genuine block quotes.
-  //
-  // The report quotes 1972 telegrams and operation orders verbatim in
-  // capitals, and their wrapped lines pass the standalone all-caps heading
-  // test one by one, tearing each quotation into bogus headings (p.275's
-  // "I WAS OVER THERE..." telegram became four). The report's real structure
-  // is its Chapter divisions, which are found without that test.
-  passes: [runningFurniture(), quoteInset(10), numberedParagraphs(), allCapsHeadings(false)],
+  passes: [
+    // Facing pages set the body at different columns (about 7 on the left
+    // page, 16 on the right, drifting between pages), so one document margin
+    // read every line of a right-hand page as a new paragraph and relabelled
+    // the rest of it a quotation. Each page's margin is measured from its own
+    // numbered paragraphs.
+    geometry("per-page"),
+    runningFurniture(),
+    // Quotations sit four columns in from the body. The earlier quoteInset(10)
+    // only compensated for the single margin above; with each page measured,
+    // 5 puts nearly every quotation back into the prose (105 quotes, against
+    // 579 at 4), and 3 adds run-ins for little gain.
+    quoteInset(4),
+    // "9.165"-style paragraphs, as in Litvinenko, Leveson and Hillsborough.
+    numberedParagraphs(),
+    // The report quotes 1972 telegrams and operation orders verbatim, in
+    // capitals and with numbered and lettered items of their own. Read as
+    // headings they tore each quotation apart (p.275's "I WAS OVER THERE..."
+    // telegram became four headings) and dropped the items' numbers. The
+    // report's structure is its Chapter divisions and contents, below.
+    allCapsHeadings(false),
+    numberedHeadings(false),
+    // Notes sit beneath the paragraph they belong to, numbered from 1 again
+    // under each one and set in two columns. Read as a page-foot block they
+    // swallowed body paragraphs, and 392 references pointed at one note.
+    paragraphNotes(),
+    // Each chapter opens with its own contents, located by paragraph: its
+    // entries name the subsection headings, set in plain sentence case, and
+    // complete chapter titles cut at a line wrap.
+    chapterContents(),
+  ],
 });

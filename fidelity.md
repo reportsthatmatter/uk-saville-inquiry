@@ -1,6 +1,6 @@
 # Fidelity review — The Report of the Bloody Sunday Inquiry, Volume I
 
-Pages: 489  ·  Footnotes: 22  ·  Auto-fixes applied: 0  ·  Human corrections: 0
+Pages: 489  ·  Footnotes: 1451  ·  Auto-fixes applied: 0  ·  Human corrections: 0
 
 **95 open**, 0 reviewed and judged correct.
 
