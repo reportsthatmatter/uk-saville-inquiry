@@ -1,4 +1,10 @@
-import { pipeline, numberedParagraphs, quoteInset, runningFurniture } from "@rtm/ingest";
+import {
+  pipeline,
+  allCapsHeadings,
+  numberedParagraphs,
+  quoteInset,
+  runningFurniture,
+} from "@rtm/ingest";
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -21,5 +27,11 @@ export default pipeline({
   // as a quotation: every numbered paragraph's own wrapped text was being
   // split off and requoted. 10 clears normal body continuations while still
   // catching most genuine block quotes.
-  passes: [runningFurniture(), quoteInset(10), numberedParagraphs()],
+  //
+  // The report quotes 1972 telegrams and operation orders verbatim in
+  // capitals, and their wrapped lines pass the standalone all-caps heading
+  // test one by one, tearing each quotation into bogus headings (p.275's
+  // "I WAS OVER THERE..." telegram became four). The report's real structure
+  // is its Chapter divisions, which are found without that test.
+  passes: [runningFurniture(), quoteInset(10), numberedParagraphs(), allCapsHeadings(false)],
 });

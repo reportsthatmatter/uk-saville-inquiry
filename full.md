@@ -61,7 +61,7 @@ Printed on paper containing 75% recycled fibre content minimum �
 
 Report of the Bloody Sunday Inquiry The Rt Hon The Lord Saville of Newdigate (Chairman) The Hon William Hoyt OC The Hon John Toohey AC
 
-## VOLUME I �
+VOLUME I �
 
 Page �
 
@@ -79,7 +79,7 @@ The Background to Bloody Sunday 101 �
 
 Outline Table of Contents This outline table of contents sets out the volumes and parts into which the report is divided, with the chapter numbers and titles within those parts, and also lists the appendices. In the cases where it is necessary, the parts and chapters themselves contain further, more detailed, tables of contents. The electronic version of the report contains a search facility, enabling the report to be searched for words and phrases.
 
-## VOLUME I �
+VOLUME I �
 
 General Introduction 15 � Glossary 19 �
 
@@ -103,7 +103,7 @@ The Background to Bloody Sunday 101 �
 
 %%page 2%%
 
-## VOLUME II
+VOLUME II
 
 - The Division into Sectors — 1
 
@@ -135,9 +135,7 @@ Sector 1: Military Dispositions, the Civil Rights March and Events
 
 - Chapter 21: Sectors 2 to 5 — 347
 
-## VOLUME III
-
-Sector 2: The Launch of the Arrest Operation and Events in the Area
+VOLUME III Sector 2: The Launch of the Arrest Operation and Events in the Area
 
 - of the Rossville Flats (Chapters 22–54) — 1
 
@@ -227,9 +225,7 @@ Chapter 54: General summary and consideration of the evidence of the soldiers
 
 - of Mortar Platoon in Sector 2 — 497
 
-## VOLUME IV �
-
-Sector 2: The Launch of the Arrest Operation and Events in the Area
+VOLUME IV � Sector 2: The Launch of the Arrest Operation and Events in the Area
 
 - of the Rossville Flats (Chapters 55–66) — 1
 
@@ -261,7 +257,7 @@ Chapter 63: Civilian evidence relating to the position on the ground of the
 
 - Chapter 66: Arrests at 33 Chamberlain Street — 360
 
-## VOLUME V
+VOLUME V
 
 - Sector 3: Events in Rossville Street — 1
 
@@ -321,7 +317,7 @@ Chapter 88: The damage to the south end of the eastern block of Glenfada
 
 - Chapter 89: The soldiers responsible for the Sector 3 casualties — 625
 
-## VOLUME VI �
+VOLUME VI �
 
 - Sector 4: Events in Glenfada Park North and Abbey Park — 1
 
@@ -385,9 +381,7 @@ Chapter 101: Civilian evidence of the situation in Glenfada Park North as the
 
 %%page 8%%
 
-## VOLUME VII �
-
-Sector 5: Events in the Area South of the Rossville Flats 1�
+VOLUME VII � Sector 5: Events in the Area South of the Rossville Flats 1�
 
 - Chapter 115: Introduction — 3
 
@@ -465,7 +459,7 @@ Chapter 133: Events after the arrival of Corporal 150 and Gerald Donaghey at
 
 - Chapter 145: Conclusions — 652
 
-## VOLUME VIII �
+VOLUME VIII �
 
 - Paramilitary Organisations and Activities on Bloody Sunday � — 1
 
@@ -535,7 +529,7 @@ Chapter 161: The treatment of the arrestees escorted to Fort George by members
 
 - Chapter 172: Major Loden — 580
 
-## VOLUME IX
+VOLUME IX
 
 - Evidential Matters — 1
 
@@ -597,7 +591,7 @@ Chapter 195: The validity of regulations concerning soldiers made under the
 
 %%page 13%%
 
-## VOLUME X
+VOLUME X
 
 - Appendix 1: Matters Relating to the Inquiry — 1
 
@@ -669,15 +663,7 @@ The following photograph, taken from David Barzilay, The British Army in Ulster 
 
 Army units 8 Inf Bde 8th Infantry Brigade.
 
-39 Inf Bde 39th Infantry Brigade.[^1] CG 1st Battalion, The Coldstream Guards.
-
-## 1 PARA
-
-1st Battalion, The Parachute Regiment.
-
-## 1 R ANGLIAN
-
-1st Battalion, The Royal Anglian Regiment.
+39 Inf Bde 39th Infantry Brigade.[^1] CG 1st Battalion, The Coldstream Guards.[^1] PARA 1st Battalion, The Parachute Regiment.[^1] R ANGLIAN 1st Battalion, The Royal Anglian Regiment.
 
 %%page 22%%
 
@@ -789,9 +775,7 @@ The photograph below, which was obtained from the Regimental Headquarters of the
 
 NCCL National Council for Civil Liberties. NCCL, now known as Liberty, is a civil rights organisation based in London, to which NICRA was affiliated.
 
-## NICRA
-
-Northern Ireland Civil Rights Association. NICRA was founded in 1967. The organisation campaigned for civil rights and social justice.
+NICRA Northern Ireland Civil Rights Association. NICRA was founded in 1967. The organisation campaigned for civil rights and social justice.
 
 NICRA statements Over a period that began on the evening of Bloody Sunday and continued for several days thereafter, statements were taken from a large number of civilian witnesses in a process coordinated by NCCL and NICRA. The statement takers were volunteers. They interviewed witnesses and prepared handwritten statements, which were usually signed by both the witness and the statement taker. Typed versions of these statements were then produced. The statements gathered by NICRA and NCCL also included unsigned typed statements prepared from the recordings made by Kathleen Keville (see Keville interviews). We have referred to the statements collected by NICRA and NCCL either as "NICRA statements", the term by which they were generally known during the Inquiry, or, where appropriate, as "Keville interviews".
 
@@ -3447,7 +3431,9 @@ Catholic opinion in the form of the Committee of 30 to improve matters.1 General
 
 8.81 � The following map shows the two areas of the Creggan and the Bogside.
 
-## BOGSIDE CREGGAN
+BOGSIDE
+
+CREGGAN
 
 8.82 � So far as Northern Ireland as a whole was concerned, General Carver suggested three general options. The first was to maintain low-intensity operations in the hope of assisting political progress, but at the risk of increasing Protestant reaction, which might lead to the formation of a "third force " of Protestant paramilitaries, the weakening of Brian Faulkner's position and the bringing nearer of direct rule. The second was to abandon all hope of political progress with the minority by adopting a "'tough policy' " which might have short-term benefits and strengthen Brian Faulkner's position, but would be unlikely to eliminate terrorism in the long term and could become a pyrrhic victory within Ireland, within Great Britain and internationally. The third was to continue with the present policy, though removing the restraints on operations motivated by a desire not to disturb current political initiatives, thus allowing intensification of border operations (including the humping and cratering of roads to hamper the surreptitious movement of paramilitaries and their equipment between Northern Ireland and the Republic of Ireland), and "an operation in Londonderry ". General Carver concluded by stating that the third of these options seemed to represent, for the time being, the best reconciliation of all the factors that had to be taken into account.1
 
@@ -3699,7 +3685,7 @@ The Yellow Card �
 
 Director of Operations for Opening Fire in Northern Ireland ". It was issued to every soldier serving in Northern Ireland and contained instructions as to when a soldier could use lethal force. The Yellow Card was first issued in September 1969. It was periodically revised and the fourth version (revised in November 1971)1 was current in January 1972.2
 
-## "RESTRICTED
+"RESTRICTED
 
 Instructions by the Director of Operations for Opening Fire in Northern Ireland
 
@@ -3755,7 +3741,7 @@ FIRE.'
 
 Revised November 1971
 
-## RESTRICTED"[^1] G28A.220.2 GEN 47 minutes, 11th November 1971;[^2] ED71.1-2
+RESTRICTED"[^1] G28A.220.2 GEN 47 minutes, 11th November 1971;[^2] ED71.1-2
 
 KH4.4 Written statement to this Inquiry of Edward Heath.
 
@@ -5195,7 +5181,7 @@ Ford reported to General Tuzo the impression that he had gained of the security 
 
 9.104 The memorandum was in the following terms:1
 
-## "THE SITUATION IN LONDONDERRY AS AT 7TH JANUARY
+"THE SITUATION IN LONDONDERRY AS AT 7TH JANUARY 1972
 
 1. I visited Londonderry on Friday 7th January with ACC (Ops) and held discussions with Commander 8 Brigade, Commanding Officer the City Battalion (22 Lt AD Regt), and the Police Divisional Commander. I also visited the area of Waterloo Place and William Street and the OPs [observation posts] on top of the Embassy Ballroom in the Strand. I was disturbed by the attitude of both the Brigade Commander and the Battalion Commander, and also, of course, by Chief Superintendent Lagan. All admitted that 'The Front' was gradually moving Northwards and, in their view, not only would Great James Street go up in time but also Clarendon Street unless there was a change of policy. This admission meant that this major shopping centre would, in their opinion, become extinct during the next few months.
 
@@ -5579,21 +5565,29 @@ David had in fact gone to Londonderry on 9th January 1972. In the telegram David
 
 "I WAS OVER THERE [in Londonderry] YESTERDAY AND WAS TOLD BY SPECIAL
 
-## BRANCH THAT THERE IS SOME DOUBT WHETHER THE MARCH WILL IN FACT
+BRANCH THAT THERE IS SOME DOUBT WHETHER THE MARCH WILL IN FACT
 
 TAKE PLACE. THE ORGANISATIONS PRIMARLY [sic] CONCERNED ARE THE
 
-## JAMES CONNOLLY REPUBLICAN CLUB, DERRY CRA WITH WHICH ARE
+JAMES CONNOLLY REPUBLICAN CLUB, DERRY CRA WITH WHICH ARE
 
 ASSOCIATED THE SRG AND KINDRED SOULDS [sic] OF THE LUNATIC LEFT.
 
 SAM DONNELLY [the Head of Special Branch in Londonderry] HAD SOME
 
-## COVERAGE BUT ANYTHING THAT YOU CAN DO TO LET US KNOW WHETHER A
+COVERAGE BUT ANYTHING THAT YOU CAN DO TO LET US KNOW WHETHER A
 
 MARCH IS INTENDED, ITS FORMING UP PLACE AND ROUTE, THE INTENTIONS
 
-## OF THE ORGANISERS IN THE EVENT OF SECURITY FORCES COUNTER ACTION ETC. WILL BE VERY WELCOME. WE ARE ANXIOUS TO TAKE NO ACTION THAT MIGHT STIMULATE A MARCH WHERE NONE IS INTENDED BUT ANY ACTION THAT YOU CAN TAKE TO SECURE THE INFORMATION WE NEED WITHOUT THIS SIDE EFFECT DESERVES I THINK A HIGH PRIORITY."[^1] Day 330/6 2 KJ4.61
+OF THE ORGANISERS IN THE EVENT OF SECURITY FORCES COUNTER
+
+ACTION ETC. WILL BE VERY WELCOME. WE ARE ANXIOUS TO TAKE NO
+
+ACTION THAT MIGHT STIMULATE A MARCH WHERE NONE IS INTENDED BUT
+
+ANY ACTION THAT YOU CAN TAKE TO SECURE THE INFORMATION WE NEED
+
+WITHOUT THIS SIDE EFFECT DESERVES I THINK A HIGH PRIORITY."[^1] Day 330/6 2 KJ4.61
 
 9.165 When shown this document, David still did not recall having gone to Londonderry.1 His recollection was that he invariably reported to the GOC and not to General Ford, but he could not remember making any report to the GOC about the proposed march.2 No documentary evidence of such a report survives; it might never have existed.[^1] Day 330/70 2 Day 330/7
 
@@ -6253,27 +6247,41 @@ Army barriers but should then be allowed to proceed to the Guildhall, if it were
 
 9.252 � Unfortunately, no copy of Chief Superintendent Lagan's written report to the Chief Constable has survived. However, we have a copy of the signal that Brigadier MacLellan sent to General Ford after the meeting. Brigadier MacLellan wrote:1
 
-## "ONE. AT MEETING WITH CHIEF SUP N DIV AND HIS DEPUTY TODAY LAGAN
+"ONE. AT MEETING WITH CHIEF SUP N DIV AND HIS DEPUTY TODAY LAGAN
 
 MADE FOLLOWING POINTS:
 
-## HE ESTIMATES 8000 TO 12000 WILL TAKE PART USING SEVERAL ASSY
+A. HE ESTIMATES 8000 TO 12000 WILL TAKE PART USING SEVERAL ASSY
 
 [ASSEMBLY] AREAS AND ROUTES.
 
-## HE BELIEVES MASSIVE CONFRONTATION WITH SF [SECURITY FORCES] WILL SHATTER SUCH PEACE AS IS LEFT IN CITY: CREATE INTENSE VIOLENCE
+B. HE BELIEVES MASSIVE CONFRONTATION WITH SF [SECURITY FORCES]
+
+WILL SHATTER SUCH PEACE AS IS LEFT IN CITY: CREATE INTENSE VIOLENCE
 
 AND REMOVE LAST VESTIGES OF MODERATE GOODWILL ETC.
 
-## HE FORECASTS INCREASED VIOLENCE AND SMALLER MARCHES EG FACTORY WORKERS WAC ETC WILL CONTINUE FOR DAYS UNTIL BAN IS CLEARLY SEEN TO BE IMPOSSIBLE TO IMPOSE EFFECTIVELY (AS SF CANNOT
+C. HE FORECASTS INCREASED VIOLENCE AND SMALLER MARCHES EG
+
+FACTORY WORKERS WAC ETC WILL CONTINUE FOR DAYS UNTIL BAN IS
+
+CLEARLY SEEN TO BE IMPOSSIBLE TO IMPOSE EFFECTIVELY (AS SF CANNOT
 
 SEAL BOGSIDE PERMANENTLY WITHOUT BRINGING THE CITY TO A HALT).
 
-## HE URGES IDENTIFICATIONS AND PHOTOGRAPHS FOLLOWED BY NORMAL COURT PROCEEDURES RATHER THAN DIRECT CONFRONTATION AND IS
+D. HE URGES IDENTIFICATIONS AND PHOTOGRAPHS FOLLOWED BY NORMAL
+
+COURT PROCEEDURES RATHER THAN DIRECT CONFRONTATION AND IS
 
 REPRESENTING THIS LINE TO HIS RUC SUPERIORS.
 
-## TWO. I AGREE THAT CONSEQUENCES OF STOPPING MARCH WILL BE VERY SERIOUS AND RECKON THAT MY PRESENT PERMANENT FORCE LEVELS ALMOST CERTAINLY INADEQUATE IF WE ARE TO FACE SITUATION LAGAN ENVISAGES."
+TWO. I AGREE THAT CONSEQUENCES OF STOPPING MARCH WILL BE VERY
+
+SERIOUS AND RECKON THAT MY PRESENT PERMANENT FORCE LEVELS
+
+ALMOST CERTAINLY INADEQUATE IF WE ARE TO FACE SITUATION LAGAN
+
+ENVISAGES."
 
 %%page 306%%
 
@@ -6993,7 +7001,7 @@ h. The maximum number of soldiers were to be 'in the shop window'. They were to 
 
 k. Finally the Commander Land Forces allocated me additional troops:
 
-## (1)[^1] KINGS OWN BORDER
+(1)[^1] KINGS OWN BORDER
 
 > (2)[^3] RRF (of two companies, and to be used as a Brigade Mobile Reserve).
 
@@ -7141,7 +7149,7 @@ Information received from Observer C on 26th January 1972 �
 
 9.366 The relevant part of Julian's note is as follows:1
 
-## "NOTE FOR FILE
+"NOTE FOR FILE
 
 I saw [Observer C] at [Observer D's] house on 26th January. Apart from the intelligence in the note for file at serial […] he also gave me the following, which was passed by me verbally to David […] that evening.
 
@@ -7155,7 +7163,7 @@ I saw [Observer C] at [Observer D's] house on 26th January. Apart from the intel
 
 9.368 The additional file note to which Julian referred in the first paragraph of his note was also dated 31st January 1972 and was signed by Julian's colleague, James. This note was in the following terms:1
 
-## "NOTE FOR FILE
+"NOTE FOR FILE
 
 > On Monday 31st January at about 9.45 a.m. David […] phoned and asked me to pass over, within half an hour, the gist of the intelligence we had given to him verbally during the previous week when Julian […] was in Northern Ireland and in touch with [Observer C].
 
@@ -7435,11 +7443,11 @@ c. Hooligan reaction to the general excitement of the event, in the form of ston
 
 …
 
-## MISSION
+MISSION
 
 5.[^8] Inf Bde is, on 30 January, to prevent any illegal march taking place from the CREGGAN, and to contain it, together with any accompanying rioting, within the Bogside and Creggan areas of the City. It is also to disperse illegal marchers from other parts of the City, and is to prevent damage by rioters and bombers to Business, Shopping and Protestant areas of Londonderry.
 
-## EXECUTION
+EXECUTION
 
 …
 
@@ -7945,11 +7953,9 @@ Street. The further suggestion that the minutes of this meeting were so drafted 
 
 "FOLLOWING FOR HILL FROM MAITLAND.
 
-## THIS MORNING MINISTERS DISCUSSED THE PUBLIC RELATIONS ASPECTS OF THE COMING WEEKEND'S MARCHES AND PARTICULARLY SUNDAY'S IN LONDONDERRY. THEY ACCEPTED THAT THERE WOULD BE T.V. COVERAGE OF MARCHERS FORMING UP IN THE CREGGAN AND BOGSIDE. THEY FELT THIS MIGHT BEST BE COUNTER-ACTED BY T.V. COVERAGE AT THE POINT WHERE THE MARCH IS BROKEN UP AND OF THE ARREST AND SUBSEQUENT PROCEEDINGS IN COURT AGAINST ANY HOOLIGAN ELEMENTS WHO MAY BE
+> THIS MORNING MINISTERS DISCUSSED THE PUBLIC RELATIONS ASPECTS OF THE COMING WEEKEND'S MARCHES AND PARTICULARLY SUNDAY'S IN LONDONDERRY. THEY ACCEPTED THAT THERE WOULD BE T.V. COVERAGE OF MARCHERS FORMING UP IN THE CREGGAN AND BOGSIDE. THEY FELT THIS MIGHT BEST BE COUNTER-ACTED BY T.V. COVERAGE AT THE POINT WHERE THE MARCH IS BROKEN UP AND OF THE ARREST AND SUBSEQUENT PROCEEDINGS IN COURT AGAINST ANY HOOLIGAN ELEMENTS WHO MAY BE ARRESTED.
 
-ARRESTED.
-
-## IN THE LIGHT OF TODAY'S DISCUSSION BY THE J.S.C. WOULD YOU PLEASE DO ALL YOU CAN TO ENSURE BALANCED COVERAGE OF SUNDAY'S MARCH."[^1] KH11.10 2 G91.551
+> 2. IN THE LIGHT OF TODAY'S DISCUSSION BY THE J.S.C. WOULD YOU PLEASE DO ALL YOU CAN TO ENSURE BALANCED COVERAGE OF SUNDAY'S MARCH."[^1] KH11.10 2 G91.551
 
 9.498 � This telegram reflected the view of the GEN 47 Committee that there should be maximum publicity for arrests and court proceedings following the marches.1 The language used is a further indication that there was no discussion of a large-scale arrest operation at the
 
@@ -8187,7 +8193,7 @@ Chief Press Secretary] would take up with Mr Hill [the United Kingdom Representa
 
 9.533 At 7.45pm on the evening of 28th January, a second telegram was sent from Donald Maitland to Clifford Hill, which referred back to his message of the previous day. Donald Maitland told this Inquiry that he did not recall this document, and that he might not necessarily have drafted it himself.1 The telegram read:2
 
-## "CONFIDENTIAL
+"CONFIDENTIAL
 
 TO IMMEDIATE UKREP BELFAST TEL NO 8 OF 28 JANUARY.
 
@@ -8195,31 +8201,35 @@ MY TELEGRAM NO. 7 OF 27 JANUARY. MARCH ON SUNDAY.
 
 FOLLOWING FOR HILL FROM MAITLAND.
 
-## MINISTERS WOULD LIKE THE SUGGESTION PUT TO MR. FAULKNER THAT A STATEMENT BE ISSUED BY NORTHERN IRELAND GOVERNMENT BEFORE
+MINISTERS WOULD LIKE THE SUGGESTION PUT TO MR. FAULKNER THAT A
+
+STATEMENT BE ISSUED BY NORTHERN IRELAND GOVERNMENT BEFORE
 
 SUNDAY'S MARCH.
 
 %%page 408%%
 
-## THIS STATEMENT WOULD BE TO THE EFFECT THAT (A) ALL RESPONSIBLE CITIZENS OF LONDONDERRY SHOULD KEEP OFF THE STREET SEMICLN (B) THE SECURITY FORCES WILL USE MINIMUM FORCE SEMICLN (C) THE SECURITY FORCES WILL TAKE THE MEASURES WHICH THE TACTICAL SITUATION REQUIRES SEMICLN (D) THEY WILL DO EVERYTHING POSSIBLE TO MINIMISE INCONVENIENCE TO
+2. THIS STATEMENT WOULD BE TO THE EFFECT THAT
 
-PEACEFUL CITIZENS.
+> (A) ALL RESPONSIBLE CITIZENS OF LONDONDERRY SHOULD KEEP OFF THE STREET SEMICLN
 
-## THE PURPOSE OF THIS STATEMENT WOULD BE (A) TO PREPARE PUBLIC OPINION HERE AND IN NORTHERN IRELAND FOR VIOLENT SCENES ON T.V. FOLLOWING THE MARCH SEMICLN
+(B) THE SECURITY FORCES WILL USE MINIMUM FORCE SEMICLN
 
-(B) TO EXPLAIN IN ADVANCE THAT THE SECURITY FORCES' COUNTER-
+> (C) THE SECURITY FORCES WILL TAKE THE MEASURES WHICH THE TACTICAL SITUATION REQUIRES SEMICLN
 
-## MEASURES WILL TAKE PLACE AT POINTS OF THE ARMY'S CHOOSING SEMICLN
+> (D) THEY WILL DO EVERYTHING POSSIBLE TO MINIMISE INCONVENIENCE TO PEACEFUL CITIZENS.
+
+3. THE PURPOSE OF THIS STATEMENT WOULD BE
+
+> (A) TO PREPARE PUBLIC OPINION HERE AND IN NORTHERN IRELAND FOR VIOLENT SCENES ON T.V. FOLLOWING THE MARCH SEMICLN
+
+> (B) TO EXPLAIN IN ADVANCE THAT THE SECURITY FORCES' COUNTER- MEASURES WILL TAKE PLACE AT POINTS OF THE ARMY'S CHOOSING SEMICLN
 
 (C) TO EXPLAIN IN ADVANCE WHY C.S. GAS MAY NOT BE USED.
 
-## PARALLEL WITH SUCH A STATEMENT WE SHOULD LIKE YOU TO ARRANGE FOR THE PRESS TO BE REMINDED OF THE REPEATED CALLS OVER RECENT MONTHS BY MEMBERS OF THE CATHOLIC COMMUNITY FOR A BAN ON ALL
+> 4. PARALLEL WITH SUCH A STATEMENT WE SHOULD LIKE YOU TO ARRANGE FOR THE PRESS TO BE REMINDED OF THE REPEATED CALLS OVER RECENT MONTHS BY MEMBERS OF THE CATHOLIC COMMUNITY FOR A BAN ON ALL MARCHES.
 
-MARCHES.
-
-5. WOULD YOU PLEASE PUT THESE SUGGESTIONS URGENTLY TO MR.
-
-## FAULKNER'S OFFICE."[^1] KM11.10-11 2 G90.550
+> 5. WOULD YOU PLEASE PUT THESE SUGGESTIONS URGENTLY TO MR. FAULKNER'S OFFICE."[^1] KM11.10-11 2 G90.550
 
 9.534 � Edward Heath accepted in his oral evidence to this Inquiry that one of the purposes of making the suggested statement was to show the public that while there was likely to be violence this would be the fault of those conducting an illegal march. He also accepted that as officials and politicians thought about the march in greater detail in the days leading up to 30th January 1972, the possibility of violence was being seen as a rather more substantial risk than had seemed likely earlier in the week.1 1 Day 273/113
 
@@ -9152,7 +9162,7 @@ e. Propaganda war.
 
 2. MISSION To contain any march on 30 Jan, together with any accompanying rioting, within the Bogside and Creggan areas of the City within the regt bdrys.
 
-## EXECUTION
+3. EXECUTION
 
 … b.(2) Dispersal of marchers
 
