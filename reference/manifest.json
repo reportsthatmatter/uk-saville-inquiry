@@ -1,0 +1,84 @@
+{
+  "report": "uk-saville-inquiry",
+  "set": "development",
+  "edition": "Report of the Bloody Sunday Inquiry, Volume I, chapters 1-9, the Inquiry's report website (report.bloody-sunday-inquiry.org), via the Wayback Machine (UKGWA blocks scripts)",
+  "licence": "Crown copyright, reused under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
+  "fetched": "2026-10-02",
+  "sources": [
+    {
+      "path": "reference/raw/chapter001.html",
+      "url": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter001/",
+      "sha256": "da01f0b8c37833b06da64de8024e8df0f5ddc58d6503f6d57ebdf763d6638380",
+      "bytes": 15876
+    },
+    {
+      "path": "reference/raw/chapter002.html",
+      "url": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter002/",
+      "sha256": "5659fd9f34c0c09e2815cd2bc80f098d02054b3926ba8064e32b933b114b17a0",
+      "bytes": 18972
+    },
+    {
+      "path": "reference/raw/chapter003.html",
+      "url": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter003/",
+      "sha256": "22ab3e931eb97a510e67d76f086dd3ce42cc5865c0aee400460db1b6c670e7ba",
+      "bytes": 76852
+    },
+    {
+      "path": "reference/raw/chapter004.html",
+      "url": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter004/",
+      "sha256": "6ef18840024ce249043207bdd308903c57d4385016263aa13a8847acab24af2c",
+      "bytes": 34315
+    },
+    {
+      "path": "reference/raw/chapter005.html",
+      "url": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter005/",
+      "sha256": "7b39767d547d38b8af2a9c080b842df73d474424d718298917cd964ef50e21a2",
+      "bytes": 13234
+    },
+    {
+      "path": "reference/raw/chapter006.html",
+      "url": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter006/",
+      "sha256": "27cd14ac1d05f4c412367a6f1af11c1f08f944dbbfa9c21ef15df5fd5e53a72c",
+      "bytes": 21640
+    },
+    {
+      "path": "reference/raw/chapter007.html",
+      "url": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter007/",
+      "sha256": "1f36798c77b4106fa68634a26e78f052b4f6c6d3b70983ab62ec86f82568203f",
+      "bytes": 147764
+    },
+    {
+      "path": "reference/raw/chapter008.html",
+      "url": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter008/",
+      "sha256": "91907ee0f338c534fc44755d62cd78420f65e7edc3ffe45fd2ba7750ac8c37c8",
+      "bytes": 371866
+    },
+    {
+      "path": "reference/raw/chapter009.html",
+      "url": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter009/",
+      "sha256": "40e8cd0ce53afdb065e98ce8d8d3bed641d85eb06436b223bb27c725ae000f89",
+      "bytes": 918159
+    }
+  ],
+  "blocks": {
+    "path": "reference/blocks.jsonl",
+    "sha256": "2f8e566290c6b4c9e92061c37852c79286b8f41114d0564a1b5cda3bc3084a34",
+    "normaliser": "reportsthatmatter scripts/score/reference.py, adapter saville, version 1",
+    "built": "2026-10-02",
+    "counts": {
+      "contents": 245,
+      "heading": 180,
+      "list": 53,
+      "note": 1458,
+      "paragraph": 1323,
+      "quote": 893
+    },
+    "markers": 1442,
+    "markers_linked": 1430,
+    "words": 155816
+  },
+  "caveats": [
+    "Footnote numbers restart in every paragraph on the website; notes are matched to ours by body text, not number.",
+    "Post-publication corrections were not compared with the PDF (HC 29-I, 15 June 2010)."
+  ]
+}
