@@ -1,4 +1,5 @@
 import {
+  quoteListRunOns,
   pipeline,
   pageBreakContinuations,
   geometry,
@@ -27,6 +28,8 @@ export default pipeline({
     { path: "archive/bloody-sunday-inquiry-vol1-hc29-i.pdf", sha256: "f979d05c54729499bd54577d920e84c9d848f78231dfa91bdaee32f32ea597ea" },
   ],
   passes: [
+    // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
+    quoteListRunOns(),
     // Facing pages set the body at different columns (about 7 on the left
     // page, 16 on the right, drifting between pages), so one document margin
     // read every line of a right-hand page as a new paragraph and relabelled
