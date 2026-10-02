@@ -1,0 +1,189 @@
+report: uk-saville-inquiry
+adjudicated: 2026-10-02
+by: Claude (Sonnet 5.5), reading the PDF
+method: "20 page breaks drawn at random (seeded) from the page breaks the reference covers, plus 10 where our text and the reference disagreed. For each, pdftotext -layout of the two pages (body lines, notes, running head), answering: does a new block (paragraph, bullet, quotation, heading) start between the two printed body lines shown, or does the block run on. prev and next are the dataset's lines; when the new page's first body line is not the one shown, the verdict covers the stretch between."
+breaks:
+  - page: 64
+    prev: "than because two civilians had been injured."
+    next: "3.13 At around the time of these incidents Colonel Wilford a"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 91
+    prev: "hot in the back and none of the other casualties (with the"
+    next: "possible exception of Daniel Gillespie) appears to have been"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 95
+    prev: "those who had been arrested."
+    next: "Chapter 4: The question of responsibility"
+    verdict: split
+    stratum: random
+    image: false
+    note: "chapter heading"
+  - page: 155
+    prev: "Brigadier Frank Kitson; 5th Airportable Brigade (5 Airptbl"
+    next: "Bde), based in Lurgan, which had replaced 19th Airportable B"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 162
+    prev: "led the United Kingdom Government to agree to internment."
+    next: "Furthermore, the attitude of unionists in the face of Provis"
+    verdict: join
+    stratum: disagreement
+    image: false
+    note: "unnumbered text after the page break continues the numbered paragraph"
+  - page: 172
+    prev: "who had withdrawn from Stormont, under the auspices of the"
+    next: "Home Secretary, Reginald Maudling. The intention was to reac"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 186
+    prev: "the Catholic community were beginning to deteriorate. The"
+    next: "Officials in Londonderry continued to concentrate on politic"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 194
+    prev: "would be glad.1"
+    next: "8.129 Brian Faulkner, who met Harold Wilson with members of"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 201
+    prev: "while “neither the RUC nor the military have control of the"
+    next: "Bogside and Creggan areas, law and order are not being effec"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 209
+    prev: "d that what General Ford was considering was what could be"
+    next: "done about the situation then existing in Londonderry. He wa"
+    verdict: join
+    stratum: random
+    image: false
+    note: "unnumbered continuation of the paragraph"
+  - page: 222
+    prev: "9.749"
+    next: "The issue of ammunition"
+    verdict: split
+    stratum: random
+    image: false
+    note: "contents list: each entry is its own block"
+  - page: 229
+    prev: "ons (one destroying premises in the Strand Road) and three"
+    next: "arson attacks. Six explosive devices had been fired by some"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 244
+    prev: "Brigade."
+    next: "9.62 � On 21st December 1971 22 Lt AD Regt moved to undertak"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 251
+    prev: "republicans did not support the campaign of violence."
+    next: "9.80 Using the expression “the Official Republican Movement”"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 296
+    prev: "d that the soldier could justifiably have lost his temper.1"
+    next: "9.210 � In evidence to this Inquiry, Private INQ 12, a membe"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 302
+    prev: "s with “a fleeting picture of what had occurred in the past"
+    next: "24 hours”,2 and if possible to give an indication of situati"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 331
+    prev: "rioters, and also on innocent marchers who happened to be"
+    next: "caught up in any arrest operation, than were soldiers of the"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 332
+    prev: "that the Army would have to be in control from the start.”"
+    next: "9.315 � In his written statement to this Inquiry, General Fo"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 359
+    prev: "copy of a film already made available to the Inquiry. The"
+    next: "Security Service and the MoD were unable to locate any copy"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 373
+    prev: "ation Order set out any boundary or limit of exploitation."
+    next: "9.429 The two areas identified in the Operation Order are sh"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 374
+    prev: "take place south of William Street. While he had expected"
+    next: "the hooligans in the second area to be in Little James Stree"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 379
+    prev: "was to provide a cine camera team."
+    next: "9.444 � The task of the photographers was stated to be:1"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 396
+    prev: "nistry of Home Affairs), since, as we mention below, Brian"
+    next: "Faulkner was on his way to London. The Secretary to the Comm"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 400
+    prev: "he economic and social position and prospects for Northern"
+    next: "Ireland. Edward Heath had asked to be kept informed when Bri"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 423
+    prev: "he had also shown them two walls, one on each side of the"
+    next: "Presbyterian church, and had suggested to them that their tr"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 442
+    prev: "of the arrest operation."
+    next: "9.618 � We are not persuaded that these matters were shortco"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 446
+    prev: "ere was no such expression of opinion at the orders group.”"
+    next: "9.634 � Colonel Ferguson suggested that the description in t"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 452
+    prev: "ur Brigadier MacLellan’s reply that this could not be done."
+    next: "9.651 � Colonel Steele also did not recall Colonel Jackson h"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 475
+    prev: "unt to an order i.e. an exoneration of all responsibility.”"
+    next: "9.717 In his written evidence to this Inquiry, Private 027 t"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 487
+    prev: "and had issued to one man 40 rounds of 7.62mm ammunition."
+    next: "He had also issued 19 men with 25 rounds each of 9mm ammunit"
+    verdict: join
+    stratum: disagreement
+    image: false
