@@ -1,0 +1,88 @@
+# Golden pages: ground truth for this report, read off the PDF page image and checked by `pnpm ingest verify`.
+# Format and rules: @rtm/ingest src/golden.ts and the site's docs/quality-harness.md ("Golden pages").
+# A page marked xfail is a known pipeline defect: it stays red here, verify stays green, and the bead says why.
+# Footnote numbers restart in every paragraph ("1" under 8.33, "1" under 8.34): the pipeline labels them "1-109"; a golden entry gives the number.
+pages:
+  # A glossary page: a figure, the subhead "Army units", and five entries (a bold term, then its definition).
+  - pdf: 26
+    printed: 21
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [H, I, E]
+    xfail: reportsthatmatter-moii
+    xfail_only: [blocks]
+    blocks:
+      - heading: "Army units"
+      - paragraph: {start: "8 Inf Bde 8th Infantry Brigade.", end: "8th Infantry Brigade."}
+      - paragraph: {start: "39 Inf Bde 39th Infantry Brigade.", end: "39th Infantry Brigade."}
+      - paragraph: {start: "1 CG 1st Battalion, The Coldstream Guards.", end: "The Coldstream Guards."}
+      - paragraph: {start: "1 PARA 1st Battalion, The Parachute Regiment.", end: "The Parachute Regiment."}
+      - paragraph: {start: "1 R ANGLIAN 1st Battalion, The Royal Anglian Regiment.", end: "The Royal Anglian Regiment."}
+    footnotes: []
+    markers: []
+  # Chapter 1 opener: a heading and five numbered paragraphs, no notes.
+  - pdf: 50
+    printed: 45
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [ordinary, I]
+    blocks:
+      - heading: "Chapter 1: Introduction"
+      - paragraph: {start: "1.1 The object of the Inquiry was to examine", end: "into these same events."}
+      - paragraph: {start: "1.2 In these opening chapters of the report", end: "undue repetition."}
+      - paragraph: {start: "1.3 The Inquiry involved an examination of a complex set of events", end: "a very large amount of evidence."}
+      - paragraph: {start: "1.4 In addition to those killed, people were also injured", end: "those causing fatal injuries."}
+      - paragraph: {start: "1.5 We found it necessary not to confine our investigations", end: "what happened on that day."}
+    footnotes: []
+    markers: []
+  # A subhead, then six numbered paragraphs, the last at the page foot.
+  - pdf: 64
+    printed: 59
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    note: "agrees with reference/adjudicated.yaml: a new paragraph starts at the top of this page (split)"
+    features: [ordinary, I]
+    blocks:
+      - paragraph: {start: "3.13 At around the time of these incidents Colonel Wilford", end: "Little James Street."}
+      - heading: "The arrest operation"
+      - paragraph: {start: "3.14 At 1607 hours Brigadier MacLellan gave 1 PARA orders", end: "chase people down that street."}
+      - paragraph: {start: "3.15 Brigadier MacLellan had delayed giving an order", end: "Colonel Wilford had previously identified."}
+      - paragraph: {start: "3.16 This order was responsive to the request", end: "along Rossville Street."}
+      - paragraph: {start: "3.17 The arrest operation ordered by the Brigadier", end: "north of Aggro Corner."}
+      - paragraph: {start: "3.18 Colonel Wilford did not comply with Brigadier MacLellan’s order", end: "arrest only the latter."}
+    footnotes: []
+    markers: []
+  # A list of five demands (1.-5.), each an item of paragraph 7.47, with hanging lines; per-paragraph notes; a paragraph carried over the page.
+  - pdf: 123
+    printed: 118
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [A, J, F]
+    xfail: reportsthatmatter-moii
+    xfail_only: [blocks]
+    continues_previous: true
+    opens_with: "largest procession since the beginning of the civil rights campaign"
+    blocks:
+      - heading: "The developing demands of the civil rights movement"
+      - paragraph: {start: "7.47 This period saw NICRA and other organisations", end: "among other matters:", notes: [1]}
+      - paragraph: {start: "1. fundamental changes in the system of local government elections", end: "(“one man one vote”);"}
+      - paragraph: {start: "2. the passing of anti-discrimination legislation", end: "in Northern Ireland;"}
+      - paragraph: {start: "3. reform of the way in which public housing was allocated", end: "assessment system;"}
+      - paragraph: {start: "4. the repeal of the Civil Authorities (Special Powers) Act", end: "oppressive; and"}
+      - paragraph: {start: "5. the disbandment of the Ulster Special Constabulary", end: "distrusted by the Catholics”."}
+      - paragraph: {start: "7.48 Arguably the most potent of these demands", continues: true, notes: [1, 2, 3]}
+    footnotes: [1, 2, 3, 4]
+    markers: [1, 2, 3, 4]
+  # An evidence extract in a shaded box (transcript Q and A) is one quotation (mkm); paragraphs carry their own note numbers.
+  - pdf: 157
+    printed: 152
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [A, D, F]
+    xfail: reportsthatmatter-mkm, reportsthatmatter-38s.10
+    xfail_only: [blocks, opens]
+    continues_previous: true
+    opens_with: "The Directive also reiterated that"
+    blocks:
+      - paragraph: {start: "8.33 As we discuss in detail elsewhere in this report", end: "oral evidence to this Inquiry:", notes: [1, 2]}
+      - quote: {start: "“Q: Can you tell us what that meant in effect", end: "how we are going to handle it.”"}
+      - paragraph: {start: "8.34 There was another aspect of the relationship", end: "elsewhere in this report.", notes: [1]}
+      - heading: "Internment"
+      - paragraph: {start: "8.35 The Northern Ireland Government had the constitutional power", end: "without such agreement.", notes: [1]}
+    footnotes: [1, 2, 3]
+    markers: [1, 2, 3]
