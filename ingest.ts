@@ -1,4 +1,4 @@
-import {
+import { layoutPageJoins,
   quoteListRunOns,
   pipeline,
   pageBreakContinuations,
@@ -28,6 +28,10 @@ export default pipeline({
     { path: "archive/bloody-sunday-inquiry-vol1-hc29-i.pdf", sha256: "f979d05c54729499bd54577d920e84c9d848f78231dfa91bdaee32f32ea597ea" },
   ],
   passes: [
+    // A paragraph run over a page break that opens on a capital, a digit or a
+    // quotation mark (or follows a full stop on a justified page) joins when the
+    // layout says it runs on: no first-line indent, same face (reportsthatmatter-38s.10).
+    layoutPageJoins(),
     // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
     quoteListRunOns(),
     // Facing pages set the body at different columns (about 7 on the left
