@@ -1,11 +1,11 @@
 {
-  "markdownSha": "a7dd2c8c0c25d94085edb7715d3214d3d7703bbbd2c022a2d47752108a5da779",
-  "words": 169907,
+  "markdownSha": "c82ddd72d2428b77bddfa1ad1583836ed07699d8254fd538831fb5c3aa74ba92",
+  "words": 169905,
   "blocks": {
     "heading": 167,
-    "quote": 579,
+    "quote": 577,
     "list": 469,
-    "paragraph": 1922
+    "paragraph": 1908
   },
   "headings": [
     "Chapter 1: Introduction",

@@ -1,5 +1,6 @@
 import {
   pipeline,
+  pageBreakContinuations,
   geometry,
   allCapsHeadings,
   numberedHeadings,
@@ -55,5 +56,8 @@ export default pipeline({
     // entries name the subsection headings, set in plain sentence case, and
     // complete chapter titles cut at a line wrap.
     chapterContents(),
+    // Two witness statements stopped mid-sentence at a page foot and resumed
+    // as block quotations.
+    pageBreakContinuations(),
   ],
 });
