@@ -7,7 +7,139 @@
       "path": "archive/bloody-sunday-inquiry-vol1-hc29-i.pdf",
       "format": "pdf",
       "mediatype": "application/pdf",
-      "sources": [{ "web": "https://assets.publishing.service.gov.uk/media/5a7b7c8ced915d131105f8f4/0029_i.pdf" }]
+      "sources": [
+        {
+          "web": "https://assets.publishing.service.gov.uk/media/5a7b7c8ced915d131105f8f4/0029_i.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, General Introduction (the Inquiry's report website, HTML)",
+      "path": "reference/raw/general-introduction.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/general-introduction/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Glossary (the Inquiry's report website, HTML)",
+      "path": "reference/raw/glossary.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/glossary/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Chapter 1 (the Inquiry's report website, HTML)",
+      "path": "reference/raw/chapter001.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter001/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Chapter 2 (the Inquiry's report website, HTML)",
+      "path": "reference/raw/chapter002.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter002/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Chapter 3 (the Inquiry's report website, HTML)",
+      "path": "reference/raw/chapter003.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter003/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Chapter 4 (the Inquiry's report website, HTML)",
+      "path": "reference/raw/chapter004.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter004/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Chapter 5 (the Inquiry's report website, HTML)",
+      "path": "reference/raw/chapter005.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter005/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Chapter 6 (the Inquiry's report website, HTML)",
+      "path": "reference/raw/chapter006.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter006/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Chapter 7 (the Inquiry's report website, HTML)",
+      "path": "reference/raw/chapter007.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter007/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Chapter 8 (the Inquiry's report website, HTML)",
+      "path": "reference/raw/chapter008.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter008/"
+        }
+      ]
+    },
+    {
+      "title": "Volume I, Chapter 9 (the Inquiry's report website, HTML)",
+      "path": "reference/raw/chapter009.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "sources": [
+        {
+          "web": "https://web.archive.org/web/2011id_/http://report.bloody-sunday-inquiry.org/volume01/chapter009/"
+        }
+      ]
+    }
+  ],
+  "licenses": [
+    {
+      "name": "OGL-UK-3.0",
+      "title": "Open Government Licence v3.0",
+      "path": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
     }
   ]
 }

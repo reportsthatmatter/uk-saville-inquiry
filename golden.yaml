@@ -8,8 +8,6 @@ pages:
     printed: 21
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [H, I, E]
-    xfail: reportsthatmatter-moii
-    xfail_only: [blocks]
     blocks:
       - heading: "Army units"
       - paragraph: {start: "8 Inf Bde 8th Infantry Brigade.", end: "8th Infantry Brigade."}
@@ -54,8 +52,6 @@ pages:
     printed: 118
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [A, J, F]
-    xfail: reportsthatmatter-moii
-    xfail_only: [blocks]
     continues_previous: true
     opens_with: "largest procession since the beginning of the civil rights campaign"
     blocks:
@@ -74,8 +70,6 @@ pages:
     printed: 152
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [A, D, F]
-    xfail: reportsthatmatter-mkm
-    xfail_only: [blocks]
     blocks:
       - paragraph: {start: "The Directive also reiterated that", end: "responsible to the Northern Ireland Government.”", notes: [3]}
       - paragraph: {start: "8.33 As we discuss in detail elsewhere in this report", end: "oral evidence to this Inquiry:", notes: [1, 2]}

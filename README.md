@@ -14,11 +14,22 @@ scoping decision.
 hosted on GOV.UK. Crown copyright, published under the Open Government
 Licence v3.0. See `datapackage.json`.
 
+`reference/raw/` — the Inquiry's own HTML edition of Volume I (the General
+Introduction, the Glossary and Chapters 1-9 of its report website, kept by the
+Wayback Machine), under the same licence (confirmed in `reference/manifest.json`).
+
 ## Build
 
 `ingest.ts` declares how the report is turned into Markdown. Rebuild from the
 site repo with `pnpm ingest run uk-saville-inquiry`.
 
+The text and structure come from the HTML edition (SHA-256 of each page in
+`ingest.ts` and `reference/manifest.json`); `inquiry-html.ts` says what its
+markup means. The PDF supplies the printed page numbers and the fidelity check,
+and is still read in full by every pass as the shadow ingest (`cleanEdition`
+in `@rtm/ingest`, reportsthatmatter-ivg.2). `fidelity.md` lists every stretch
+where the HTML and the PDF disagree.
+
 ## Processing notes
 
-[`PROCESSING.md`](PROCESSING.md) records how this edition was read from the PDF and where it still falls short. The site publishes it at `/reports/uk-saville-inquiry/processing`. The site copies it in with `pnpm ingest aggregate`.
+[`PROCESSING.md`](PROCESSING.md) records how this edition was made and where it still falls short. The site publishes it at `/reports/uk-saville-inquiry/processing`. The site copies it in with `pnpm ingest aggregate`.
