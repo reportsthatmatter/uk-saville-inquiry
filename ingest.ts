@@ -63,7 +63,9 @@ export default pipeline({
     // A paragraph run over a page break that opens on a capital, a digit or a
     // quotation mark (or follows a full stop on a justified page) joins when the
     // layout says it runs on: no first-line indent, same face (reportsthatmatter-38s.10).
-    layoutPageJoins(),
+    // numberedBody (shadow only; the served text is the edition): every body paragraph is numbered, so an
+    // unnumbered page opening carries on the one above (7.39 p.121, 9.753 p.487 and five more, as the edition has them).
+    layoutPageJoins({ numberedBody: true }),
     // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
     quoteListRunOns(),
     // Facing pages set the body at different columns (about 7 on the left
