@@ -18,6 +18,10 @@ Licence v3.0. See `datapackage.json`.
 Introduction, the Glossary and Chapters 1-9 of its report website, kept by the
 Wayback Machine), under the same licence (confirmed in `reference/manifest.json`).
 
+## Licence
+
+Text of the report: Crown copyright 2010; reuse on the imprint's terms, and Open Government Licence v3.0 as stated by GOV.UK. Our markup, processing and editorial additions: CC BY 4.0. Code: MIT. Evidence, caveats and the full statement are in [LICENSE](LICENSE); the MIT text is in [LICENSE-MIT](LICENSE-MIT).
+
 ## Build
 
 `ingest.ts` declares how the report is turned into Markdown. Rebuild from the
